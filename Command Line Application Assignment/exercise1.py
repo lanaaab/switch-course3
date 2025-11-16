@@ -98,8 +98,4 @@ while(not exit_flag):
             print("The input is empty.\n")
         else:
             print("The input is not empty.\n")
-    
-  
-    
-    
-    
+
